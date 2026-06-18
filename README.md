@@ -7,7 +7,7 @@
 
 <br>
 
-### 🚀 About Me
+###  About Me
 
 - 🎓 5th Semester, B.Tech in Computer Science & Engineering
 - 💻 Aspiring **Software Development Engineer (SDE)** — I enjoy turning problems into clean, working code
@@ -19,7 +19,7 @@
 
 <br>
 
-### 🛠️ Skills
+###  Skills
 
 **Languages**
 <p>
@@ -48,7 +48,7 @@
 
 <br>
 
-### 📌 Projects
+###  Projects
 
 **[Relief Link](https://relieflink-q4bd.onrender.com)** ([source code](https://github.com/soamsonali/ReliefLink)) — A web application that assists disaster-response coordination by intelligently allocating volunteers based on:
 - Location
